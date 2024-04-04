@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_2d"
+        android:title="2D"/>
+    <item
+        android:id="@+id/menu_3d"
+        android:title="3D"/>
+    <item
+        android:id="@+id/menu_profil"
+        android:title="Profil"/>
+</menu>
